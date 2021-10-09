@@ -1,4 +1,8 @@
+.nrepl-port
 notes
-out/
+
+.calva/
 .clj-kondo/
 .cpcache/
+.lsp/
+out/
