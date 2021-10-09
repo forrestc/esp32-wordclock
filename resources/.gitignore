@@ -1,2 +1,2 @@
-board-config.edn
-board-secrets.edn
+build-config.edn
+build-secrets.edn
