@@ -1,0 +1,76 @@
+{:lolin-d32-pro/d0
+ {:type :output-analog
+  :pin "D0"
+  :value 1}
+ :lolin-d32-pro/d2
+ {:type :output-analog
+  :pin "D2"
+  :value 1}
+ :lolin-d32-pro/d4
+ {:type :output-analog
+  :pin "D4"
+  :value 1}
+ :lolin-d32-pro/d5
+ {:type :output-analog
+  :pin "D5"
+  :value 1}
+ :lolin-d32-pro/d12
+ {:type :output-analog
+  :pin "D12"
+  :value 1}
+ :lolin-d32-pro/d13
+ {:type :output-analog
+  :pin "D13"
+  :value 1}
+ :lolin-d32-pro/d14
+ {:type :output-analog
+  :pin "D14"
+  :value 1}
+ :lolin-d32-pro/d15
+ {:type :output-analog
+  :pin "D15"
+  :value 1}
+ :lolin-d32-pro/d18
+ {:type :output-analog
+  :pin "D18"
+  :value 1}
+ :lolin-d32-pro/d19
+ {:type :output-analog
+  :pin "D19"
+  :value 1}
+ :lolin-d32-pro/d21
+ {:type :output-analog
+  :pin "D21"
+  :value 1}
+ :lolin-d32-pro/d22
+ {:type :output-analog
+  :pin "D22"
+  :value 1}
+ :lolin-d32-pro/d23
+ {:type :output-analog
+  :pin "D23"
+  :value 1}
+ :lolin-d32-pro/d25
+ {:type :output-analog
+  :pin "D25"
+  :value 1}
+ :lolin-d32-pro/d26
+ {:type :output-analog
+  :pin "D26"
+  :value 1}
+ :lolin-d32-pro/d27
+ {:type :output-analog
+  :pin "D27"
+  :value 1}
+ :lolin-d32-pro/d32
+ {:type :output-analog
+  :pin "D32"
+  :value 1}
+ :lolin-d32-pro/d33
+ {:type :output-analog
+  :pin "D33"
+  :value 1}
+ :lolin-d32-pro/d34
+ {:type :input-analog
+  :pin "D34"
+  :value 1}}

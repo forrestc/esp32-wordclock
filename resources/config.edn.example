@@ -1,0 +1,3 @@
+{:board-file "lolin-d32-pro.edn"
+ :serial-port "/dev/cu.usbserial-1234"
+ :endpoint-address "10.0.0.1"}

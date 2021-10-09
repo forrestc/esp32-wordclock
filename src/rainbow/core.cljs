@@ -1,4 +1,6 @@
-;; cljs version of http://www.espruino.com/Reference#t_l_neopixel_write 
+(ns rainbow.core
+  ;; "cljs version of http://www.espruino.com/Reference#t_l_neopixel_write"
+  (:require [esprit.repl]))
 
 (def neopixel (js/require "neopixel"))
 
