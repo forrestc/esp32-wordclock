@@ -10,7 +10,7 @@
 (def array-length (* num-leds 3))
 (def rgb (js/Uint8ClampedArray. array-length))
 
-(def brightness (atom 127)) ; 0 to 127
+(def brightness (atom 10)) ; 0 to 127
 (def pos (atom 0))
 
 (defn set-color [rgb brightness pos i coe]
@@ -37,7 +37,8 @@
 (def interval (atom nil))
 
 (defn stop []
-  (js/clearInterval @interval))
+  (js/clearInterval @interval)
+  (reset! interval nil))
 
 (defn start [delay]
   (when @interval (stop))
